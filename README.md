@@ -126,5 +126,5 @@ Valid Until: October 2027
 ## 📫 Contact Me
 
 - Email: aryaf.aljoudi@icloud.com
-- Location: Saudi Arabia
-- LinkedIn: YOUR_LINKEDIN_URL
+- WhatsApp: +966531248433
+- LinkedIn: www.linkedin.com/in/aryaf-aljoudi/
